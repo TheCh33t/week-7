@@ -1,0 +1,34 @@
+{
+  "name": "CS5513-Week07-TheCh33t",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@chakra-ui/icons": "^1.0.15",
+    "@chakra-ui/react": "^1.6.9",
+    "@emotion/react": "^11.4.1",
+    "@emotion/styled": "^11.3.0",
+    "@next/bundle-analyzer": "^11.1.2",
+    "cookies": "^0.8.0",
+    "copy-webpack-plugin": "^9.0.1",
+    "core-js": "^3.18.2",
+    "firebase": "^9.1.1",
+    "firebase-admin": "^9.12.0",
+    "hoist-non-react-statics": "^3.3.2",
+    "next": "^11.1.2",
+    "next-absolute-url": "^1.2.2",
+    "next-firebase-auth": "file:next-firebase-auth",
+    "react": "^17.0.2",
+    "react-firebaseui": "^5.0.2",
+    "regenerator-runtime": "^0.13.9",
+    "src": "^1.1.2",
+    "webpack-bundle-analyzer": "^4.4.2",
+    "webpack-node-externals": "^3.0.0"
+  }
+}
